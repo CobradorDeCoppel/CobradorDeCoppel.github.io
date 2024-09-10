@@ -1,0 +1,63 @@
+.tit{
+    border-bottom: 200px;
+    margin-top: 20px;
+}
+
+.contenido{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info{
+    font-size: 19px;
+    line-height: 2;
+}
+
+.carta{
+    width: 100%;
+    aspect-ratio: 2/3;
+    margin-top: 5%;
+    border: 1px solid black
+}
+
+.prev{
+width: 40%;
+aspect-ratio: 2/3;
+margin-top: 10%;
+border: 6px solid black;
+}
+
+#son{
+width: 15%;
+aspect-ratio: 1/1;
+}
+
+.numero{
+width: auto;
+margin-top: 5%;
+}
+
+#i1{
+    margin-left: auto;
+    margin-right: 5%;
+}
+
+#i2{
+    margin-right: auto;
+}
+
+#son{
+cursor: pointer;
+margin-top: 2.5%;
+margin-bottom: 2.5%;
+aspect-ratio: 1/1;
+}
+
+#carta{
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+#cons{
+    width: auto;
+}
